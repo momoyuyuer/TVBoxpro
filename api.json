@@ -239,55 +239,85 @@
 
 	//阿里
 	{
-		"key": "️玩偶哥",
-		"name": "❤️玩偶哥┃4K",
+		"key": "️wogg_xyz",
+		"name": "❤️玩偶哥哥┃4K",
 		"type": 3,
 		"api": "csp_XYQHikerAL",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.nxog.top/m/json/wog.json"
+		"ext": "./XYQHiker/woggxyz.json"
 	},
 	{
-		"key": "️玩偶弟",
-		"name": "❤️玩偶弟┃4K",
+		"key": "️wogg_link",
+		"name": "❤️玩偶弟┃弟4K",
 		"type": 3,
 		"api": "csp_XYQHikerAL",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.nxog.top/m/json/wod.json"
+		"ext": "./XYQHiker/wogglink.json"
+	},
+        {
+            "key": "️Tudou.lvdoui_top",
+            "name": "❤️玩偶土豆┃4K",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/wotd.json"
+        },
+	{
+		"key": "️tv.yydsys_top",
+		"name": "❤️玩偶多多4K",
+		"type": 3,
+		"api": "csp_XYQHikerAL",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "./XYQHiker/woduoduo.json"
 	},
 	{
-		"key": "️玩偶姐",
-		"name": "❤️玩偶姐┃4K",
+		"key": "️Ttkx.live:_3328",
+		"name": "❤️天天开心┃4K",
 		"type": 3,
 		"api": "csp_XYQHikerAL",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.nxog.top/m/json/woj.json"
+		"ext": "./XYQHiker/天天开心.json"
 	},
 	{
-		"key": "️玩偶妹",
-		"name": "❤️玩偶妹┃4K",
+		"key": "️Wog.nxog_eu.org",
+		"name": "❤️玩偶欧歌┃4K",
 		"type": 3,
 		"api": "csp_XYQHikerAL",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "http://tv.nxog.top/m/json/wom.json"
+		"ext": "./XYQHiker/nxog.json"
 	},
-	{
-		"key": "️玩偶歌",
-		"name": "❤️玩偶歌┃4K",
-		"type": 3,
-		"api": "csp_XYQHikerAL",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "http://tv.nxog.top/m/json/wou.json"
-	},
+        {
+            "key": "️Wobge.run_goorm.io",
+            "name": "❤️玩偶表哥┃4K",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/wobg.json"
+        },
+        {
+            "key": "️Api.wogg_xyz",
+            "name": "❤️玩偶备用┃4K",
+            "type": 3,
+            "api": "csp_XYQHikerAL",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/woggapi.json"
+        },
 	{
 		"key": "云盘搜索",
 		"name": "❤️搜索┃4K",
@@ -298,6 +328,16 @@
 		"filterable": 1,
 		"ext": "http://tv.nxog.top/m/json/yps.json"
 	},
+        {
+            "key": "pansearch_me",
+            "name": "❤️合搜4K",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://tv.nxog.top/m/json/yps.json"
+        },
 	{
 		"key": "DOVX搜索",
 		"name": "❤️七夜┃4K",
