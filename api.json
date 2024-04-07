@@ -4,14 +4,14 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "📚豆瓣",
+      "name": "📚微信公众号关注|TVBox",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "云盘登录",
-      "name": "🔐云盘登录",
+      "name": "🔐TVBox|云盘登录",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
@@ -22,7 +22,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "🧸云盘｜玩偶",
+      "name": "🧸4K云盘｜玩偶",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -32,7 +32,7 @@
     },
     {
       "key": "天天开心",
-      "name": "😄云盘｜开心",
+      "name": "😄4K云盘｜开心",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -42,7 +42,7 @@
     },
     {
       "key": "土豆网盘",
-      "name": "🥔云盘｜土豆",
+      "name": "🥔4K云盘｜土豆",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },
     {
       "key": "多多影音",
-      "name": "🎶云盘｜多多",
+      "name": "🎶4K云盘｜多多",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -61,18 +61,18 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/多多影音.json"
     },
     {
-      "key": "云盘论坛",
-      "name": "💬云盘｜论坛",
+      "key": "4K云盘论坛",
+      "name": "💬4K云盘｜论坛",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘论坛.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘论坛.json"
     },
     {
       "key": "我的小站",
-      "name": "🏠云盘｜小站",
+      "name": "🏠4K云盘｜小站",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -828,18 +828,18 @@
       "jar": "http://稳定接口.tvbox.中国/jars.php"
     },
     {
-      "key": "云盘搜索",
-      "name": "☁️云盘｜搜索",
+      "key": "4K云盘搜索",
+      "name": "☁️4K云盘｜搜索",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘搜索.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘搜索.json"
     },
     {
       "key": "DOVX搜索",
-      "name": "🔍云盘｜七夜",
+      "name": "🔍4K云盘｜七夜",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -849,7 +849,7 @@
     },
     {
       "key": "影搜",
-      "name": "🎞️云盘｜影搜",
+      "name": "🎞️4K云盘｜影搜",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -859,7 +859,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "🌟云盘｜云搜",
+      "name": "🌟4K云盘｜云搜",
       "type": 3,
       "api": "csp_Upyunso",
       "searchable": 1,
@@ -869,7 +869,7 @@
     },
     {
       "key": "AliPS",
-      "name": "🔍云盘｜盘搜",
+      "name": "🔍4K云盘｜盘搜",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
@@ -879,7 +879,7 @@
     },
     {
       "key": "Yisou",
-      "name": "🔎云盘｜易搜",
+      "name": "🔎4K云盘｜易搜",
       "type": 3,
       "api": "csp_Yisou",
       "searchable": 1,
@@ -889,7 +889,7 @@
     },
     {
       "key": "阿里苏苏",
-      "name": "🌸云盘｜苏苏",
+      "name": "🌸4K云盘｜苏苏",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -898,28 +898,28 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/阿里苏苏.json"
     },
     {
-      "key": "云盘资源",
-      "name": "📂云盘｜资源",
+      "key": "4K云盘资源",
+      "name": "📂4K云盘｜资源",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘资源.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘资源.json"
     },
     {
-      "key": "云盘资源分享",
-      "name": "🔄云盘｜分享",
+      "key": "4K云盘资源分享",
+      "name": "🔄4K云盘｜分享",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/云盘资源分享.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘资源分享.json"
     },
     {
       "key": "豆豆飞搜索",
-      "name": "🚀云盘｜豆豆飞",
+      "name": "🚀4K云盘｜豆豆飞",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -929,7 +929,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "☕云盘｜小纸条",
+      "name": "☕4K云盘｜小纸条",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
