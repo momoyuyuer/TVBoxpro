@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "📚微信公众号关注|TVBox",
+      "name": "📚官方公众号：TVBox",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
