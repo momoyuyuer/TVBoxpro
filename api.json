@@ -648,7 +648,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1，
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "http://稳定接口.tvbox.中国/json/二三三.php"
     },
@@ -733,7 +733,7 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
-      "quickSearch": 1，
+      "quickSearch": 1,
       "filterable": 1,
       "ext": "http://稳定接口.tvbox.中国/json/电影港.php"
     },
