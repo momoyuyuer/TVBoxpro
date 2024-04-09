@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/玩偶哥哥.json"
+      "ext": "http://稳定接口.tvbox.中国/json/玩偶哥哥.php"
     },
     {
       "key": "天天开心",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/天天开心.json"
+      "ext": "http://稳定接口.tvbox.中国/json/天天开心.php"
     },
     {
       "key": "土豆网盘",
