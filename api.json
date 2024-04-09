@@ -261,7 +261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/冷曦影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/冷曦.php"
     },
     {
       "key": "萌猫影视",
@@ -271,7 +271,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/萌猫影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/萌猫.php"
     },
     {
       "key": "蛋蛋影视",
@@ -281,7 +281,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/蛋蛋影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/蛋蛋.php"
     },
     {
       "key": "五五影视",
@@ -291,7 +291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/五五影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/五五.php"
     },
     {
       "key": "柒月影视",
@@ -301,7 +301,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/柒月影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/柒月.php"
     },
     {
       "key": "威士影视",
@@ -311,7 +311,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/威士影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/威士.php"
     },
     {
       "key": "奇优影院",
@@ -321,7 +321,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/奇优影院.json"
+      "ext": "http://稳定接口.tvbox.中国/json/奇优.php"
     },
     {
       "key": "疯狗影视",
