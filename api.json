@@ -331,7 +331,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/疯狗影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/疯狗.php"
     },
     {
       "key": "农民影视",
@@ -341,7 +341,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/农民影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/农民.php"
     },
     {
       "key": "子子影视",
@@ -351,7 +351,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/子子影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/子子.php"
     },
     {
       "key": "歪片星球",
@@ -361,7 +361,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/歪片星球.json"
+      "ext": "http://稳定接口.tvbox.中国/json/歪片.php"
     },
     {
       "key": "奇趣影视",
@@ -371,7 +371,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/奇趣影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/奇趣.php"
     },
     {
       "key": "四九资源",
@@ -648,9 +648,9 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1，
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/二三三.json"
+      "ext": "http://稳定接口.tvbox.中国/json/二三三.php"
     },
     {
       "key": "维奇动漫",
@@ -660,7 +660,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/维奇动漫.json"
+      "ext": "http://稳定接口.tvbox.中国/json/维奇.php"
     },
     {
       "key": "动漫巴士",
@@ -670,7 +670,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/动漫巴士.json"
+      "ext": "http://稳定接口.tvbox.中国/json/巴士.php"
     },
     {
       "key": "樱花动漫",
@@ -733,9 +733,9 @@
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1，
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/电影港.json"
+      "ext": "http://稳定接口.tvbox.中国/json/电影港.php"
     },
     {
       "key": "BT天堂",
@@ -745,7 +745,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/BT天堂.json"
+      "ext": "http://稳定接口.tvbox.中国/json/BT天堂.php"
     },
     {
       "key": "Mp4电影",
@@ -764,7 +764,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/高清MP4.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/高清MP4.json"
     },
     {
       "key": "哔嘀影视",
@@ -774,7 +774,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/哔嘀影视.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/哔嘀影视.json"
     },
     {
       "key": "酷吧电影",
@@ -835,7 +835,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘搜索.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘搜索.json"
     },
     {
       "key": "DOVX搜索",
@@ -845,7 +845,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/DOVX搜索.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/DOVX搜索.json"
     },
     {
       "key": "影搜",
@@ -855,7 +855,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/影搜.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/影搜.json"
     },
     {
       "key": "Upyunso",
@@ -895,7 +895,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/阿里苏苏.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/阿里苏苏.json"
     },
     {
       "key": "4K云盘资源",
@@ -905,7 +905,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘资源.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘资源.json"
     },
     {
       "key": "4K云盘资源分享",
@@ -915,7 +915,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘资源分享.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘资源分享.json"
     },
     {
       "key": "豆豆飞搜索",
@@ -925,7 +925,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/豆豆飞搜索.json"
+      "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/豆豆飞搜索.json"
     },
     {
       "key": "Gitcafe",
