@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/土豆网盘.json"
+      "ext": "http://稳定接口.tvbox.中国/json/土豆.php"
     },
     {
       "key": "多多影音",
@@ -58,7 +58,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/多多影音.json"
+      "ext": "http://稳定接口.tvbox.中国/json/多多.php"
     },
     {
       "key": "4K云盘论坛",
