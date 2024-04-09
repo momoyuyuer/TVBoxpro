@@ -68,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/4K云盘论坛.json"
+      "ext": "http://稳定接口.tvbox.中国/json/论坛.php"
     },
     {
       "key": "我的小站",
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/我的小站.json"
+      "ext": "http://稳定接口.tvbox.中国/json/小站.php"
     },
     {
       "key": "南瓜",
@@ -221,7 +221,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/三四八.json"
+      "ext": "http://稳定接口.tvbox.中国/json/三四八.php"
     },
     {
       "key": "电影牛",
@@ -231,7 +231,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XYQHiker/电影牛.json"
+      "ext": "http://稳定接口.tvbox.中国/json/电影牛.php"
     },
     {
       "key": "白嫖影视",
@@ -241,7 +241,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/白嫖影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/白嫖.php"
     },
     {
       "key": "圣城影视",
@@ -251,7 +251,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/XBPQ/圣城影视.json"
+      "ext": "http://稳定接口.tvbox.中国/json/圣城.php"
     },
     {
       "key": "冷曦影视",
