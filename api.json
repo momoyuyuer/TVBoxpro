@@ -124,11 +124,11 @@
 	"key": "drpy2_农民影视",
 	"name": "👨‍🌾农民",
 	"type": 3,
-	"api": "./JS/drpy2.min.js",
+	"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/momoyuyuer/TVBoxpro/main/JS/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "./JS/drpy2_农民影视.js"
+	"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/momoyuyuer/TVBoxpro/main/JS/drpy2_%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"
 },
     {
       "key": "哔嘀",
