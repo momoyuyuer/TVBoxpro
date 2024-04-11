@@ -121,6 +121,16 @@
       "ext": "https://www.czzy77.com"
     },
     {
+	"key": "drpy2_农民影视",
+	"name": "👨‍🌾农民",
+	"type": 3,
+	"api": "./JS/drpy2.min.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "./JS/drpy2_农民影视.js"
+},
+    {
       "key": "哔嘀",
       "name": "🚗哔嘀",
       "type": 3,
