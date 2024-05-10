@@ -91,10 +91,10 @@
       "ext": "http://稳定接口.tvbox.中国/json/小站.php"
     },
     {
-      "key": "南瓜",
+      "key": "南瓜影视",
       "name": "🎃南瓜",
       "type": 3,
-      "api": "csp_AppYSDQ",
+      "api": "csp_WexNgys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -121,14 +121,14 @@
       "ext": "http://app.kzjtv.com"
     },
     {
-      "key": "厂长",
+      "key": "厂长资源",
       "name": "🏭厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.czzy77.com"
+      "ext": "https://www.cz233.com/"
     },
     {
 	"key": "drpy2_农民影视",
@@ -139,15 +139,16 @@
 	"quickSearch": 1,
 	"filterable": 1,
 	"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/momoyuyuer/TVBoxpro/main/JS/drpy2_%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"
-},
+    },
     {
-      "key": "哔嘀",
+      "key": "哔嘀影视",
       "name": "🚗哔嘀",
       "type": 3,
-      "api": "csp_Bdys",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/momoyuyuer/TVBoxpro/main/XYQHiker/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "低端",
@@ -159,13 +160,20 @@
       "filterable": 1
     },
     {
-      "key": "七七",
+      "key": "酷云七七",
       "name": "🎲七七",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_WexKuyun77",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
+    },
+    {
+      "key": "文才影视",
+      "name": "📘文才",
+      "type": 3,
+      "api": "csp_Wexwencai",
+      "searchable": 1,
+      "changeable": 1
     },
  {
       "key": "快看",
@@ -177,14 +185,28 @@
       "filterable": 1
     },
     {
-      "key": "短剧",
-      "name": "🎭短剧",
+      "key": "秒播短剧",
+      "name": "🎭秒播短剧",
       "type": 3,
-      "api": "csp_App",
+      "api": "csp_Wexduanjuvop",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://zzdj.cc/api.php/provide/vod"
+      "changeable": 1
+    },
+    {
+      "key": "短剧搜索",
+      "name": "🎭短剧搜索",
+      "type": 3,
+      "api": "csp_Wexduanjuso",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "素白白",
+      "name": "👻素白白",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "一起看",
@@ -212,16 +234,8 @@
       "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "短剧网",
-      "name": "🎭短剧网",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://v.ikanbot.com"
     },
     {
       "key": "酷影视",
