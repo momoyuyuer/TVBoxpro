@@ -3,11 +3,14 @@
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "豆豆",
       "name": "📚官方公众号：TVBox",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
+      "api": "csp_DouDou",
+      "jar": "http://稳定接口.tvbox.中国/jars.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "云盘登录",
