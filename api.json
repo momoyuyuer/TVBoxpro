@@ -149,7 +149,7 @@
     },
     {
       "key": "骚火影视",
-      "name": "骚火影视",
+      "name": "😡骚火",
       "type": 3,
       "api": "csp_Wexsaohuo",
       "searchable": 1,
@@ -157,7 +157,7 @@
     },
     {
       "key": "精品短剧",
-      "name": "精品短剧",
+      "name": "🎬️精品短剧",
       "type": 3,
       "api": "csp_Wexduanjuvip",
       "searchable": 1,
@@ -165,7 +165,7 @@
     },
     {
       "key": "看看影视",
-      "name": "看看影视",
+      "name": "🫣看看",
       "type": 3,
       "api": "csp_WebIV",
       "searchable": 1,
@@ -174,7 +174,7 @@
     },
     {
       "key": "星芽短剧",
-      "name": "星芽短剧",
+      "name": "🌟星芽短剧",
       "type": 3,
       "api": "csp_AppXY",
       "searchable": 1,
@@ -183,7 +183,7 @@
     },
     {
       "key": "视频库",
-      "name": "视频库",
+      "name": "🪐视频库",
       "type": 3,
       "api": "csp_WebVidHub",
       "searchable": 1,
@@ -193,7 +193,7 @@
     },
     {
       "key": "素白白",
-      "name": "素白白",
+      "name": "👻素白白",
       "type": 3,
       "api": "csp_Subaibai",
       "searchable": 1,
@@ -201,7 +201,7 @@
     },
     {
       "key": "机器人",
-      "name": "机器人",
+      "name": "🤖机器人",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
