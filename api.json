@@ -103,25 +103,31 @@
       "filterable": 0
     },
     {
-      "key": "天天",
-      "name": "🌞天天",
+      "key": "天天影视",
+       "name": "🌞天天",
       "type": 3,
-      "api": "csp_TTian",
-      "ext": "http://op.ysdqjs.cn"
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "热播",
+      "key": "热播影视",
       "name": "🔥热播",
       "type": 3,
-      "api": "csp_TTian",
-      "ext": "http://v.rbotv.cn"
+      "api": "csp_AppRB",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
-      "key": "追剧",
+      "key": "追剧影视",
       "name": "🎬追剧",
       "type": 3,
-      "api": "csp_TTian",
-      "ext": "http://app.kzjtv.com"
+      "api": "csp_AppZJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "厂长资源",
@@ -131,17 +137,77 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.cz233.com/"
+      "ext": "https://www.czys.top/"
     },
     {
-	"key": "drpy2_农民影视",
-	"name": "👨‍🌾农民",
-	"type": 3,
-	"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/momoyuyuer/TVBoxpro/main/JS/drpy2.min.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/momoyuyuer/TVBoxpro/main/JS/drpy2_%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"
+      "key": "农民影视",
+       "name": "👨‍🌾农民",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "骚火影视",
+      "name": "骚火影视",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "精品短剧",
+      "name": "精品短剧",
+      "type": 3,
+      "api": "csp_Wexduanjuvip",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "看看影视",
+      "name": "看看影视",
+      "type": 3,
+      "api": "csp_WebIV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "星芽短剧",
+      "name": "星芽短剧",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "视频库",
+      "name": "视频库",
+      "type": 3,
+      "api": "csp_WebVidHub",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://vidhub1.cc"
+    },
+    {
+      "key": "素白白",
+      "name": "素白白",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "机器人",
+      "name": "机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://v.aikanbot.com"
     },
     {
       "key": "哔嘀影视",
@@ -163,14 +229,6 @@
       "filterable": 1
     },
     {
-      "key": "酷云七七",
-      "name": "🎲七七",
-      "type": 3,
-      "api": "csp_WexKuyun77",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "文才影视",
       "name": "📘文才",
       "type": 3,
@@ -178,7 +236,7 @@
       "searchable": 1,
       "changeable": 1
     },
- {
+    {
       "key": "快看",
       "name": "🏃快看",
       "type": 3,
@@ -186,49 +244,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "秒播短剧",
-      "name": "🎭秒播短剧",
-      "type": 3,
-      "api": "csp_Wexduanjuvop",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "短剧搜索",
-      "name": "🎭短剧搜索",
-      "type": 3,
-      "api": "csp_Wexduanjuso",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "素白白",
-      "name": "👻素白白",
-      "type": 3,
-      "api": "csp_Subaibai",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "一起看",
-      "name": "👫一起看",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "新视觉",
-      "name": "👓新视觉",
-      "type": 3,
-      "api": "csp_Web608",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://www.6080yy4.com"
     },
     {
       "key": "机器人",
@@ -577,7 +592,7 @@
       "key": "索尼资源",
       "name": "📱索尼资源",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/", 
+      "api": "https://suoniapi.com/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
