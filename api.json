@@ -94,15 +94,6 @@
       "ext": "http://稳定接口.tvbox.ren/json/小站.php"
     },
     {
-      "key": "南瓜影视",
-      "name": "🎃南瓜",
-      "type": 3,
-      "api": "csp_WexNgys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "天天影视",
        "name": "🌞天天",
       "type": 3,
