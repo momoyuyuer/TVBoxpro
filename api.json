@@ -112,17 +112,6 @@
       "filterable": 1
     },
     {
-      "key": "荐片",
-      "name": "📜磁力｜荐片",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
-    },
-    {
       "key": "追剧影视",
       "name": "🎬追剧",
       "type": 3,
