@@ -696,15 +696,6 @@
       "ext": "http://稳定接口.tvbox.ren/json/二三三.php"
     },
     {
-      "key": "南瓜影视",
-      "name": "🎃南瓜",
-      "type": 3,
-      "api": "csp_WexNgys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "维奇动漫",
       "name": "🎨维奇动漫",
       "type": 3,
