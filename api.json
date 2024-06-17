@@ -120,6 +120,17 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {
+      "key": "荐片",
+      "name": "📜磁力｜荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+    },
     {
       "key": "追剧影视",
       "name": "🎬追剧",
@@ -705,6 +716,15 @@
       "ext": "http://稳定接口.tvbox.ren/json/二三三.php"
     },
     {
+      "key": "南瓜影视",
+      "name": "🎃南瓜",
+      "type": 3,
+      "api": "csp_WexNgys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "维奇动漫",
       "name": "🎨维奇动漫",
       "type": 3,
@@ -731,17 +751,7 @@
       "api": "csp_XBPQ",
       "ext": "分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
-    {
-      "key": "荐片",
-      "name": "📜磁力｜荐片",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
-    },
+
     {
       "key": "New6v",
       "name": "🔢磁力｜New6V",
