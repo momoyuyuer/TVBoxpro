@@ -103,6 +103,16 @@
       "ext": "http://tvbox.稳定接口.com/json/小站.php"
     },
     {
+      "key":"荐片纯净",
+      "name":"👍️荐片┃蓝光┃纯净",
+      "api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "type":3,"searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "playerType":"1",
+      "ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+    },
+    {
       "key": "天天影视",
        "name": "🌞天天",
       "type": 3,
