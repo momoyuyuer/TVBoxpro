@@ -1,5 +1,5 @@
 {
-  "spider": "http://稳定接口.tvbox.ren/jar.php;md5;f154ba973ace6562b2e82815952b089e",
+  "spider": "http://tvbox.稳定接口.com/jar.php;md5;f154ba973ace6562b2e82815952b089e",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -7,7 +7,7 @@
       "name": "📚官方公众号：TVBox",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "http://稳定接口.tvbox.ren/jars.php",
+      "jar": "http://tvbox.稳定接口.com/jars.php",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -31,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/玩偶哥哥.php"
+      "ext": "http://tvbox.稳定接口.com/json/玩偶哥哥.php"
     },
     {
       "key": "天天开心",
@@ -41,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/天天开心.php"
+      "ext": "http://tvbox.稳定接口.com/json/天天开心.php"
     },
     {
       "key": "土豆网盘",
@@ -51,7 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/土豆.php"
+      "ext": "http://tvbox.稳定接口.com/json/土豆.php"
     },
     {
       "key": "多多影音",
@@ -61,7 +61,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/多多.php"
+      "ext": "http://tvbox.稳定接口.com/json/多多.php"
     },
     {
       "key": "影探蓝光",
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/论坛.php"
+      "ext": "http://tvbox.稳定接口.com/json/论坛.php"
     },
     {
       "key": "我的小站",
@@ -91,7 +91,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/小站.php"
+      "ext": "http://tvbox.稳定接口.com/json/小站.php"
     },
     {
       "key": "天天影视",
@@ -264,7 +264,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/三四八.php"
+      "ext": "http://tvbox.稳定接口.com/json/三四八.php"
     },
     {
       "key": "电影牛",
@@ -274,7 +274,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/电影牛.php"
+      "ext": "http://tvbox.稳定接口.com/json/电影牛.php"
     },
     {
       "key": "白嫖影视",
@@ -284,7 +284,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/白嫖.php"
+      "ext": "http://tvbox.稳定接口.com/json/白嫖.php"
     },
     {
       "key": "圣城影视",
@@ -294,7 +294,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/圣城.php"
+      "ext": "http://tvbox.稳定接口.com/json/圣城.php"
     },
     {
       "key": "冷曦影视",
@@ -304,7 +304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/冷曦.php"
+      "ext": "http://tvbox.稳定接口.com/json/冷曦.php"
     },
     {
       "key": "萌猫影视",
@@ -314,7 +314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/萌猫.php"
+      "ext": "http://tvbox.稳定接口.com/json/萌猫.php"
     },
     {
       "key": "蛋蛋影视",
@@ -324,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/蛋蛋.php"
+      "ext": "http://tvbox.稳定接口.com/json/蛋蛋.php"
     },
     {
       "key": "五五影视",
@@ -334,7 +334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/五五.php"
+      "ext": "http://tvbox.稳定接口.com/json/五五.php"
     },
     {
       "key": "柒月影视",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/柒月.php"
+      "ext": "http://tvbox.稳定接口.com/json/柒月.php"
     },
     {
       "key": "威士影视",
@@ -354,7 +354,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/威士.php"
+      "ext": "http://tvbox.稳定接口.com/json/威士.php"
     },
     {
       "key": "奇优影院",
@@ -364,7 +364,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/奇优.php"
+      "ext": "http://tvbox.稳定接口.com/json/奇优.php"
     },
     {
       "key": "疯狗影视",
@@ -374,7 +374,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/疯狗.php"
+      "ext": "http://tvbox.稳定接口.com/json/疯狗.php"
     },
     {
       "key": "农民影视",
@@ -384,7 +384,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/农民.php"
+      "ext": "http://tvbox.稳定接口.com/json/农民.php"
     },
     {
       "key": "子子影视",
@@ -394,7 +394,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/子子.php"
+      "ext": "http://tvbox.稳定接口.com/json/子子.php"
     },
     {
       "key": "歪片星球",
@@ -404,7 +404,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/歪片.php"
+      "ext": "http://tvbox.稳定接口.com/json/歪片.php"
     },
     {
       "key": "奇趣影视",
@@ -414,7 +414,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/奇趣.php"
+      "ext": "http://tvbox.稳定接口.com/json/奇趣.php"
     },
     {
       "key": "四九资源",
@@ -693,7 +693,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/二三三.php"
+      "ext": "http://tvbox.稳定接口.com/json/二三三.php"
     },
     {
       "key": "维奇动漫",
@@ -703,7 +703,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://稳定接口.tvbox.ren/json/维奇.php"
+      "ext": "http://tvbox.稳定接口.com/json/维奇.php"
     },
     {
       "key": "动漫巴士",
@@ -713,7 +713,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://稳定接口.tvbox.ren/json/巴士.php"
+      "ext": "http://tvbox.稳定接口.com/json/巴士.php"
     },
     {
       "key": "樱花动漫",
@@ -768,7 +768,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/电影港.php"
+      "ext": "http://tvbox.稳定接口.com/json/电影港.php"
     },
     {
       "key": "BT天堂",
@@ -778,7 +778,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://稳定接口.tvbox.ren/json/BT天堂.php"
+      "ext": "http://tvbox.稳定接口.com/json/BT天堂.php"
     },
     {
       "key": "Mp4电影",
@@ -841,7 +841,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "http://稳定接口.tvbox.ren/jars.php"
+      "jar": "http://tvbox.稳定接口.com/jars.php"
     },
     {
       "key": "阿里合集",
@@ -858,7 +858,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "http://稳定接口.tvbox.ren/jars.php"
+      "jar": "http://tvbox.稳定接口.com/jars.php"
     },
     {
       "key": "4K云盘搜索",
@@ -1235,7 +1235,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://稳定接口.tvbox.ren/live.php",
+      "url": "http://tvbox.稳定接口.com/live.php",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
     }
